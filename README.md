@@ -3,21 +3,21 @@
 MoviesDB offers a seamless movie browsing experience, where users can explore an extensive collection of films across various genres. Additionally, users can access top-rated and upcoming movies sections to discover critically acclaimed releases and anticipate upcoming releases. The platform also provides a robust search functionality, enabling users to find specific movies based on titles, genres, or keywords. Upon selecting a movie, users are redirected to a detailed movie details page, showcasing comprehensive information including synopses, cast details, trailers, ratings, and more. With these features, MoviesDB aims to provide users with a comprehensive movie discovery and exploration platform, catering to diverse preferences and interests in the world of cinema.
 
 ## Want to see our website have more curiosity of browsing movies then click here
-# https://9gpsqy-3000.csb.app/
+## https://9gpsqy-3000.csb.app/
 
 #### Landing Page(Popular Movies Page)
-![HomePage](![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/6ecb3eb4-6287-45b1-a611-a04698de1d39)
-)
+![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/c1989264-58c4-42bf-8eb7-bb01212fcf14)
+
 
 #### Top-rated Movies Page
-![book-marketplace](![image](https://github.com/rakesh4902/Work-India-Movies-Assignment/assets/83058036/0aefe11b-b2a9-4b84-9cd9-50c0a8aedac8))
+![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/63bfdd8a-cc98-4d88-ad3a-325775fb26e1)
 
 #### Upcoming Movies Page
-![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/f32db6ce-c5ab-4e37-b76b-0aad9cb8ee2d)
+![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/bfc217b0-eaf0-4bf4-9ae6-12d8b7b8b744)
 
 #### Search Movies Page
-1.![Results Not Found](![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/cd927dd9-a3e0-4c53-9081-3deca5331757))
-2.![Results Found](![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/788c32e2-c3b7-4f07-bf5f-636c27eca4d2))
+1.![Results Not Found]![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/15d97a5e-e9e8-4e82-b1f3-7d0e16a41b0d)
+2.![Results Found]![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/bbf198a5-cfef-4424-a35c-be573f640c2f)
 
 
 
