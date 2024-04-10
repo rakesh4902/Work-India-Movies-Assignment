@@ -1,0 +1,55 @@
+.navbar-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color:  #373B3E;
+}
+
+.right-side-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.movie-icon{
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    border-radius: 40px;
+}
+.icon-container{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.heading{
+    margin-top: 20px;
+    color: #B3BDC4;
+    font-family: 'Roboto';
+    font-size: 23px;
+    padding: 10px;
+}
+
+.search-container{
+    margin-top: 20px;
+}
+
+
+
+.link{
+    text-decoration: none;
+}
+
+.serach-image{
+    height:40px;
+    width:60px;
+    background-color: none;
+}
+
+.searchBtn{
+    border: 0px;
+    background:#373B3E;
+    height:40px;
+    margin-top: 22px;
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.Home-Cont{
+    display: flex;
+    flex-direction: column;
+    background-color: #1C2730;
+}
+
+.movies-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 25px;
+}

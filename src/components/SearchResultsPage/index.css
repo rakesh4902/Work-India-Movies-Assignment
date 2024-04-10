@@ -1,0 +1,25 @@
+.search-movie-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #1C2730;
+    min-height: 100vh;
+}
+
+.search-bar{
+    text-align: center;
+    margin-top: 30px; 
+}
+
+.search-input{
+    padding: 10px;
+    margin-top: 10px;
+    width: 500px;
+}
+
+.no-movie-found{
+    margin-left: 425px;
+    border-radius: 10px;
+    height:500px;
+    width:600px;
+    margin-top: 20px;
+}
