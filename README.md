@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Explore the World of Cinema: Browsing, Top Rated, Upcoming, and Search Movies on MoviesDB
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+MoviesDB offers a seamless movie browsing experience, where users can explore an extensive collection of films across various genres. Additionally, users can access top-rated and upcoming movies sections to discover critically acclaimed releases and anticipate upcoming releases. The platform also provides a robust search functionality, enabling users to find specific movies based on titles, genres, or keywords. Upon selecting a movie, users are redirected to a detailed movie details page, showcasing comprehensive information including synopses, cast details, trailers, ratings, and more. With these features, MoviesDB aims to provide users with a comprehensive movie discovery and exploration platform, catering to diverse preferences and interests in the world of cinema.
 
-## Available Scripts
+## Want to see our website have more curiosity of browsing movies then click here
+# https://9gpsqy-3000.csb.app/
 
-In the project directory, you can run:
+#### Landing Page(Popular Movies Page)
+![HomePage](![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/6ecb3eb4-6287-45b1-a611-a04698de1d39)
+)
 
-### `npm start`
+#### Top-rated Movies Page
+![book-marketplace](![image](https://github.com/rakesh4902/Work-India-Movies-Assignment/assets/83058036/0aefe11b-b2a9-4b84-9cd9-50c0a8aedac8))
+
+#### Upcoming Movies Page
+![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/f32db6ce-c5ab-4e37-b76b-0aad9cb8ee2d)
+
+#### Search Movies Page
+1.![Results Not Found](![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/cd927dd9-a3e0-4c53-9081-3deca5331757))
+2.![Results Found](![image](https://github.com/rakesh4902/creatar-books-page-assignment/assets/83058036/788c32e2-c3b7-4f07-bf5f-636c27eca4d2))
+
+
+
+## How to Start This Application on Your Local PC
+
+To start this application on your local PC, follow these step-by-step instructions:
+
+#### 1. Download the Code:
+- First, download the zip file containing the application code from the GitHub repository.
+
+#### 2. Unzip the File:
+- Unzip the downloaded file to access the application code.
+
+#### 3. Open with VS Code:
+- Open the unzipped folder using any code editor, such as Visual Studio Code.
+
+#### 4. npm install
+- Run the command for installing the required packages
+  
+#### 5. npm start
+- Now Run this command to start with the application
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
